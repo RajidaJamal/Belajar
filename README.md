@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Nama: Rajida Jamal
+Npm: 07352311064
+Kelas: 5IF2
